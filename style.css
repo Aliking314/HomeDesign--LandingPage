@@ -3,11 +3,17 @@
     padding: 0;
     font-family:sans-serif ;
 }
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(/spacejoy-nEtpvJjnPVo-unsplash.jpg);
+    background-size: cover;
+    background-position:center ;
+}
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),
-    url(spacejoy-nEtpvJjnPVo-unsplash.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(/spacejoy-nEtpvJjnPVo-unsplash.jpg);
     background-size: cover;
     background-position:center ;
 }
